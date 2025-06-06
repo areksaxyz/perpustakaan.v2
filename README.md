@@ -16,4 +16,4 @@ Selamat datang di repositori Perpustakaan Digital! Aplikasi ini adalah sistem ma
 - SQLite JDBC 3.49.1.53 (untuk koneksi database)
 - PDFBox 2.0.27 (untuk buku digital berformat PDF)
 - Commons Logging 1.2 dan FontBox 2.0.27 (dependensi PDFBox)
-![alt text] (https://github.com/areksaxyz/perpustakaan.v2/blob/main/foto/beranda.png?raw=true)
+![alt text](https://github.com/areksaxyz/perpustakaan.v2/blob/main/foto/beranda.png?raw=true)
