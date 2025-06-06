@@ -74,6 +74,7 @@ Sebelum menjalankan aplikasi, pastikan Anda memiliki:
    git clone https://github.com/areksaxyz/perpustakaan.v2
    
    cd perpustakaan-digital
+   
 **2. Unduh Dependensi** (jika belum ada di folder lib/)
 - [FlatLaf](https://mvnrepository.com/artifact/com.formdev/flatlaf/3.3)
 - [SQLite JDBC](https://repo1.maven.org/maven2/org/xerial/sqlite-jdbc/3.49.1.0/sqlite-jdbc-3.49.1.0.jar)
